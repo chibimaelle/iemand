@@ -1,0 +1,10 @@
+Package: iemand
+Version: 0.0.0.9000
+Title: Creates Fake People
+Description: What the package does (one paragraph).
+Authors@R: person("Maëlle", "Salmon", email = "maelle.salmon@yahoo.se", role = c("aut", "cre"))
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+ByteCompile: true
+RoxygenNote: 6.0.1.9000
