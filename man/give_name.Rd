@@ -2,13 +2,17 @@
 % Please edit documentation in R/give_name.R
 \name{give_name}
 \alias{give_name}
-\title{Title}
+\title{Gives a name depending on sex assigned at birth}
 \usage{
 give_name(sex = "female")
 }
 \arguments{
-\item{sex}{}
+\item{sex}{sex assigned at birth, "male" or "female"}
 }
 \description{
-Title
+Gives a name depending on sex assigned at birth
+}
+\examples{
+give_name()
+give_name(sex = "male")
 }
