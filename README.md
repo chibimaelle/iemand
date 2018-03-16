@@ -1,4 +1,4 @@
-[![Travis build status](https://travis-ci.org/chibimaelle/iemand.svg?branch=master)](https://travis-ci.org/chibimaelle/iemand)
+[![Travis build status](https://travis-ci.org/chibimaelle/iemand.svg?branch=master)](https://travis-ci.org/chibimaelle/iemand) [![Coverage status](https://codecov.io/gh/chibimaelle/iemand/branch/master/graph/badge.svg)](https://codecov.io/github/chibimaelle/iemand?branch=master)
 
 # iemand
 
